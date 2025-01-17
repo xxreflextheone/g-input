@@ -1,4 +1,4 @@
-import relative as GHUB
+import mouse as GHUB
 import win32api
 import time
 
