@@ -12,4 +12,4 @@ x, y = 1, 1 # sample coordinates to move the mouse to
 
 # Example usage
 while enabled():
-  mouse.mouse_move(0, x, y, 0) # move mouse to specified coords above.
+  GHUB.mouse_move(0, x, y, 0) # move mouse to specified coords above.
