@@ -1,5 +1,6 @@
 import mouse as GHUB
 import win32api
+import time
 
 GHUB.mouse_open() # initialize mouse
 time.sleep(1)
