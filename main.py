@@ -1,4 +1,4 @@
-import mouse as GHUB
+import relative as GHUB
 import win32api
 import time
 
@@ -10,6 +10,7 @@ def enabled():
 
 x, y = 1, 1 # sample coordinates to move the mouse to
 
-# Example usage
-while enabled():
-  GHUB.mouse_move(0, x, y, 0) # move mouse to specified coords above.
+
+while True:
+  if enabled():
+    GHUB.mouse_move(0, x, y, 0)
