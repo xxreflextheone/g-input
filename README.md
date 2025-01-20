@@ -2,9 +2,7 @@
 
 ![GInput Banner](https://github.com/user-attachments/assets/46096aa3-13b6-49ca-8162-4ab4e1a2da2a)
 
-Allows you to send relative mouse input via Logitech GHUB
-
-The original didnt have a loop for finding the driver so all I did was add that and included an example of it being used.
+Allows you to send relative mouse input from python with Logitech GHUB
 
 Based off of https://github.com/Oliver-1-1/GHUB-Mouse-exploit-Python
 
