@@ -4,6 +4,9 @@
 
 **G Input** enables **relative mouse input using Logitech G HUB**, allowing you to simulate in-game movement for automation, macros, and undetected input systems.
 
+GET GHUB HERE [2021.3.9205](https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer_2021.3.5164.exe)  
+
+
 > ✅ Compatible with Logitech G HUB version [2021.3.9205](https://download01.logi.com/web/ftp/pub/techsupport/gaming/lghub_installer_2021.3.5164.exe)  
 > 💬 Need help or want to showcase your build? Join our [Discord Community](https://discord.gg/WuVBhrpYrS)
 
